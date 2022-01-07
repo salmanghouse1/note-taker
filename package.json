@@ -1,14 +1,26 @@
 {
-  "name": "note-taker",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+    "name": "note-taker",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/salmanghouse1/note-taker.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/salmanghouse1/note-taker/issues"
+    },
+    "homepage": "https://github.com/salmanghouse1/note-taker#readme",
+    "description": "",
+    "devDependencies": {
+        "jest": "^27.4.5"
+    }
 }
