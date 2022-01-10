@@ -28,7 +28,9 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Made By
 
-[salman ghouse](http://www.salmanwebdeveloper.com)
+* [salman ghouse](http://www.salmanwebdeveloper.com)
 
+* [github](https://www.github.com/salmanghouse1)
 
-[email](mailto:salmanghouse1@gmail.com)
+* [email](mailto:salmanghouse1@gmail.com)
+
